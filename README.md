@@ -2,14 +2,14 @@
 
 # Symptom-Based Disease Prediction Web Application
 
-A web application that predicts potential diseases based on user-inputted symptoms using a trained Decision Tree Classifier machine learning model. The app provides personalized health insights, including recommended medications, dietary suggestions, workout plans, precautions, and detailed disease descriptions.
+A web application that predicts potential diseases based on user-inputted symptoms using a trained Decision Tree Classifier machine learning model. The app provides personalized health insights, including recommended medications, dietary suggestions, workout plans, precautions, and detailed disease descriptions.
 
 ## Features
 
 - **Disease Prediction**: Input symptoms to receive potential disease predictions.
 - **Personalized Recommendations**: Get tailored advice on medications, diet, workouts, and precautions.
 - **User-Friendly Interface**: Intuitive design for easy navigation and interaction.
-- **Informative Descriptions**: Detailed information about predicted diseases to enhance user understanding.
+- **Informative Descriptions**: Detailed information about predicted diseases to enhance user understanding.
 
 ## ScreenShot
 
